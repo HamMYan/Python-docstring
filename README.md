@@ -24,12 +24,14 @@ Follow the prompts to generate initial configuration files, including conf.py.
    ```bash
    pip install recommonmark
 
-Add to extensions in conf.py:
-    
-   ՝՝՝bash 
+
+   Add to extensions in conf.py:
+
+   ```bash
    extensions = ['recommonmark']
 
-1. **Build HTML Documentation**
+
+4. **Build HTML Documentation**
 To generate HTML files:
 
     ```bash
