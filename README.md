@@ -28,7 +28,7 @@ Follow the prompts to generate initial configuration files, including conf.py.
    Add to extensions in conf.py:
 
    ```bash
-   extensions = ['recommonmark']
+        extensions = ['recommonmark']
 
 
 4. **Build HTML Documentation**
