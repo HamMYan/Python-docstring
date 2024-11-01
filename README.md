@@ -26,10 +26,10 @@ Follow the prompts to generate initial configuration files, including conf.py.
 
 Add to extensions in conf.py:
     
-    ```bash
+   ՝՝՝bash 
    extensions = ['recommonmark']
 
-4. **Build HTML Documentation**
+1. **Build HTML Documentation**
    To generate HTML files:
 
     ```bash
