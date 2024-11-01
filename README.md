@@ -13,7 +13,7 @@ Quick guide to install and set up Sphinx for project documentation.
     ```bash
     sphinx-quickstart
 
-    Follow the prompts to generate initial configuration files, including conf.py.
+Follow the prompts to generate initial configuration files, including conf.py.
 
 3. **IConfigure conf.py** 
    Open conf.py and customize settings as needed, like:
@@ -24,9 +24,9 @@ Quick guide to install and set up Sphinx for project documentation.
    ```bash
    pip install recommonmark
 
-   Add to extensions in conf.py:
-
-   ```bash
+Add to extensions in conf.py:
+    
+    ```bash
    extensions = ['recommonmark']
 
 4. **Build HTML Documentation**
