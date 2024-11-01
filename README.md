@@ -25,7 +25,7 @@ Follow the prompts to generate initial configuration files, including conf.py.
    pip install recommonmark
 
 
-   Add to extensions in conf.py:
+Add to extensions in conf.py:
 
    extensions = ['recommonmark']
 
