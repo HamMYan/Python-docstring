@@ -30,7 +30,7 @@ Add to extensions in conf.py:
    extensions = ['recommonmark']
 
 1. **Build HTML Documentation**
-   To generate HTML files:
+To generate HTML files:
 
     ```bash
     make html
